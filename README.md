@@ -1,1 +1,3 @@
-# etsy-sale-map
+# places-map
+
+[View live](https://meganpaffrath.github.io/etsy-sale-map/)
