@@ -125,6 +125,13 @@ function initMap() {
       'CO',
       '80222',
     ],
+    [
+      'Feb 12, 2024',
+      { lat: 38.6895663, lng: -87.074841 },
+      'Loogootee',
+      'IN',
+      '47553',
+    ],
   ];
 
   // Create an info window to share between markers.
