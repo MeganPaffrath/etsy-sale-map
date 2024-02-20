@@ -132,6 +132,13 @@ function initMap() {
       'IN',
       '47553',
     ],
+    [
+      'Feb 20, 2024',
+      { lat: 25.8498161, lng: -80.159827 },
+      'Miami Beach',
+      'Fl',
+      '33141',
+    ],
   ];
 
   // Create an info window to share between markers.
