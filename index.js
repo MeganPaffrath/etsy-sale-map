@@ -139,6 +139,27 @@ function initMap() {
       'Fl',
       '33141',
     ],
+    [
+      'Feb 24, 2024',
+      { lat: 41.1471196, lng: -96.2280514 },
+      'Papillion',
+      'NE',
+      '68133',
+    ],
+    [
+      'Feb 24, 2024',
+      { lat: 41.082713, lng: -85.2333002 },
+      'Fort Wayne',
+      'IN',
+      '46808',
+    ],
+    [
+      'Feb 26, 2024',
+      { lat: 41.4518089, lng: -105.8176758 },
+      'LARAMIE',
+      'WY',
+      '82072',
+    ],
   ];
 
   // Create an info window to share between markers.
