@@ -160,6 +160,13 @@ function initMap() {
       'WY',
       '82072',
     ],
+    [
+      'Mar 15, 2024',
+      { lat: 39.4948876, lng: -119.8475435 },
+      'Reno',
+      'NV',
+      '89509',
+    ],
   ];
 
   // Create an info window to share between markers.
