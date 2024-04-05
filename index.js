@@ -167,6 +167,34 @@ function initMap() {
       'NV',
       '89509',
     ],
+    [
+      'Mar 16, 2024',
+      { lat: 33.6842736, lng: -84.291791 },
+      'DECATUR',
+      'GA',
+      '30034',
+    ],
+    [
+      'Mar 17, 2024',
+      { lat: 36.7985635, lng: -119.2623493 },
+      'Dunlap',
+      'CA',
+      '93621',
+    ],
+    [
+      'Mar 18, 2024',
+      { lat: 37.3724625, lng: -79.8214574 },
+      'Blue Ridge',
+      'VA',
+      '24064',
+    ],
+    [
+      'Apr 5, 2024',
+      { lat: 38.6264437, lng: -121.3661059 },
+      'Carmichael',
+      'CA',
+      '95608',
+    ],
   ];
 
   // Create an info window to share between markers.
