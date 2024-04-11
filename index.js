@@ -195,6 +195,13 @@ function initMap() {
       'CA',
       '95608',
     ],
+    [
+      'Apr 10, 2024',
+      { lat: 43.0034997, lng: -74.0213743 },
+      'BALLSTON SPA',
+      'NY',
+      '12020',
+    ],
   ];
 
   // Create an info window to share between markers.
